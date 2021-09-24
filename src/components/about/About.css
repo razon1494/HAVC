@@ -1,0 +1,55 @@
+.about-text{
+    text-align: start;
+    margin-top: 2rem;
+}
+
+#welcome-message{
+    color: dodgerblue;
+    letter-spacing: .1rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.about-text h1{
+    padding: 1%;
+}
+
+#main-text{
+    color: slategray;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: justify;
+}
+.about-text h5{
+    letter-spacing: .12rem;
+    color: slategray;
+    font-size: 1.3rem;
+}
+.ok{
+    color: green;
+}
+
+
+
+
+         .about-btn {background-image: linear-gradient(to right, #E55D87 0%, #5FC3E4  51%, #E55D87  100%)}
+         .about-btn {
+            margin: 50px 0;
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            border:1px solid #5FC3E4;
+            border-radius: 10px;
+            display: block;
+          }
+
+          .about-btn:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+            padding: 20px 50px;
+          }
+

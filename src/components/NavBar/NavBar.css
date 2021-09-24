@@ -1,0 +1,17 @@
+.navigation{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+.drop-menu{
+    color: antiquewhite;
+}
+.btnn{
+    border: 3px solid Bisque;
+    color: Crimson;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.btnn:hover{
+    background-color: Bisque;
+    color: coral;
+}

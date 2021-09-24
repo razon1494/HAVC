@@ -1,0 +1,15 @@
+.client-say{
+    margin-top: 3%;
+}
+.testimonial{
+    letter-spacing: .2rem;
+    font-size: 1.3rem;
+}
+.client-say h1{
+    color: orangered;
+    font-size: 3rem;
+}
+.p-text{
+    color: grey;
+    font-size: 1.1rem;
+}

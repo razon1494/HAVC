@@ -1,0 +1,20 @@
+.progress-body{
+    background-color: darkslategray;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    padding: 3rem;
+    color: gold;
+    font-size: 1.5rem;
+}
+.ico{
+    color: gold;
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.single-progrss h1{
+    color: honeydew;
+}
+.single-progrss p{
+    color: deepskyblue;
+    font-weight: 500;
+}
